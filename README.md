@@ -9,3 +9,10 @@ This repo is for code related to sabataging the local dev demo portion of my bel
 cd bind-port
 sls offline
 ```
+
+### 2. Break npm -g
+1. Go to `./global-npm-break/README.md`
+2. Remove permissions
+3. Fix permissions - but have a good story to tell 
+
+### 3. Set old node version
